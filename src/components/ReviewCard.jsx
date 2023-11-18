@@ -2,7 +2,7 @@ import { star } from "../assets/icons";
 
 function ReviewCard({ imgURL, customerName, rating, feedback }) {
   return (
-    <div className="flex flex-col max-container">
+    <div className="flex flex-col max-container transition-transform transform scale-100 hover:scale-105">
       <div className="flex flex-col items-center">
         <img src={imgURL} width={120} height={120} className=" rounded-full" />
       </div>

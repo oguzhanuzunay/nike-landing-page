@@ -3,7 +3,18 @@ import { star } from "../assets/icons";
 const PopularProductCard = ({ imgURL, name, price }) => {
   return (
     <div key={name} className="flex flex-1 flex-col w-full max-sm:w-full">
-      <img src={imgURL} alt={name} className="w-[280px] h-[280px]" />
+      <div className="relative group w-[280px]">
+        <img
+          src={imgURL}
+          alt={name}
+          className="w-[280px] h-[280px] transition-transform transform scale-100 group-hover:scale-105 object-cover"
+        />
+        <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
+          <button className="bg-coral-red text-white py-2 px-4 rounded-md font-montserrat text-lg hover:bg-Ff4040">
+            Add to Cart
+          </button>
+        </div>
+      </div>
       <div className="mt-8 flex justify-start items-center gap-2.5">
         <img src={star} width={24} height={24} alt="rating" />
         <p className="font-montserrat text-slate-gray  text-xl leading-normal">
