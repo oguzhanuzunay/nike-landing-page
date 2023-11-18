@@ -25,7 +25,7 @@ const Hero = () => {
           </span>
           <br />
           <span className="text-coral-red inline-block mt-3 nike-animation">
-            Nike
+            Nike&nbsp;
           </span>
           Shoes
         </h1>
