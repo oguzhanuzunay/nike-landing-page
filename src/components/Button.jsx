@@ -12,7 +12,7 @@ const Button = ({
       ${backgroundColor ? backgroundColor : "bg-coral-red"} 
       ${borderColor ? borderColor : "border-coral-red "} 
       ${textColor ? textColor : "text-white"}
-      hover:bg-black hover:text-#D400FF hover:transform hover:scale-105 hover:rotate-3 ${
+      hover:bg-black hover:text-#FF4040 hover:transform hover:scale-105 hover:rotate-3 ${
         fullWidth && "w-full"
       }`}
     >
