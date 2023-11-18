@@ -4,8 +4,10 @@ import Button from "../components/Button";
 
 const SpecialOffer = () => {
   return (
-    <section className="flex justify-wrap items-center 
-    max-xl:flex-col-reverse gap-10 max-container">
+    <section
+      className="flex justify-wrap items-center 
+    max-xl:flex-col-reverse gap-10 max-container"
+    >
       <div className="flex-1">
         <img
           src={offer}
@@ -32,7 +34,7 @@ const SpecialOffer = () => {
         </p>
 
         <div className="mt-11 flex flex-wrap gap-4">
-          <Button label="Shop now" iconUrl={arrowRight} />
+          <Button label="Shop now" iconURL={arrowRight} />
           <Button
             label="Learn more"
             backgroundColor={"bg-white"}
