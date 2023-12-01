@@ -19,9 +19,8 @@ https://github.com/oguzhanuzunay/nike-landing-page/assets/48884275/e6b775f3-e83b
 - [Contributing](#contributing)
 - [Pending Issues](#pending-issues)
 - [Contact Me](#contact-me)
-- <a href="#custom-id"> Custom </a>
 
-## 📋 Features
+<h2 id="features">📋 Features </h2>
 
 - **Tailwind CSS Magic:** This project demonstrates the artistry of Tailwind CSS, providing a visually stunning and responsive design.
 - **React.js Brilliance:** Leveraging React.js, the page offers dynamic interactivity and a smooth user journey.
@@ -32,14 +31,14 @@ https://github.com/oguzhanuzunay/nike-landing-page/assets/48884275/e6b775f3-e83b
 - **Scalable Structure:** The project is built with scalability in mind, making it ideal for expansion.
 
 
-## 💻 Technologies Used
+<h2 id="technologies-used">💻 Technologies Used </h2>
   
 - [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework.
 - [React.js](https://reactjs.org/): A JavaScript library for building user interfaces.
 - [Vite.js](https://vitejs.dev/): A fast development build tool for modern web apps.
 
 
-## 🛠️ Getting Started
+<h2 id="getting-started">Getting Started </h2>
 
 1. **Clone the repository:**
 
@@ -63,7 +62,7 @@ https://github.com/oguzhanuzunay/nike-landing-page/assets/48884275/e6b775f3-e83b
 
 <br>
 
-## 🚧 Pending Issues
+<h2 id="pending-issues">🚧 Pending Issues </h2>
 
 ❌ Fix navigation menu button not working for smaller devices.
 
@@ -71,7 +70,7 @@ https://github.com/oguzhanuzunay/nike-landing-page/assets/48884275/e6b775f3-e83b
 <br>
 We welcome contributions from the community to help implement these features. If you have ideas or would like to work on any of these pending features, please feel free to open an issue or submit a pull request.
 
-## 🤝 Contributions
+<h2 id="contributing">🤝 Contributions </h2>
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
@@ -82,8 +81,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. **Submit a pull request.**
 
 ---
-<h2 id="custom-id">📧 Custom</h3>
-## 📧 Contact Me
-
+<h2 id="contact-me"> 📧 Contact Me</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Profile-gray?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0077b5)](https://www.linkedin.com/in/oguzhan-uzunay) 
