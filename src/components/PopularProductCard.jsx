@@ -4,7 +4,7 @@ const PopularProductCard = ({ imgURL, name, price }) => {
   return (
     <div
       key={name}
-      className="flex flex-1 flex-col w-full max-sm:w-full"
+      className="flex flex-1 flex-col w-full max-sm:w-full max-sm:items-center"
     >
       <div className="relative group">
         <img
@@ -12,7 +12,7 @@ const PopularProductCard = ({ imgURL, name, price }) => {
           alt={name}
           className="w-[280px] h-[280px] transition-transform transform scale-100 group-hover:scale-105"
         />
-        <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity w-[280px]">
+        <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity w-[280px] max-w-full">
           <button className="bg-coral-red text-white py-2 px-4 rounded-md font-montserrat text-lg hover:bg-Ff4040">
             Add to Cart
           </button>
