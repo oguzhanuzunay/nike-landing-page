@@ -13,12 +13,12 @@ https://github.com/oguzhanuzunay/nike-landing-page/assets/48884275/e6b775f3-e83b
 
 ## 📄 Table of Contents
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [Pending Issues](#pending-issues)
-- [Contact Me](#contact-me)
+- [📋 Features](#features)
+- [💻 Technologies Used](#technologies-used)
+- [🛠️ Getting Started](#getting-started)
+- [🤝 Contributing](#contributing)
+- [🚧 Pending Issues](#pending-issues)
+- [📧 Contact Me](#contact-me)
 
 <h2 id="features">📋 Features </h2>
 
@@ -38,7 +38,7 @@ https://github.com/oguzhanuzunay/nike-landing-page/assets/48884275/e6b775f3-e83b
 - [Vite.js](https://vitejs.dev/): A fast development build tool for modern web apps.
 
 
-<h2 id="getting-started">Getting Started </h2>
+<h2 id="getting-started">🛠️ Getting Started </h2>
 
 1. **Clone the repository:**
 
