@@ -14,11 +14,11 @@ https://github.com/oguzhanuzunay/nike-landing-page/assets/48884275/e6b775f3-e83b
 ## 📄 Table of Contents
 
 - [Features](#features)
-- [Technologies Used](##technologies-used)
-- [Getting Started](##getting-started)
-- [Contributing](##contributing)
-- [Pending Issues](##pending-issues)
-- [Contact Me](##contact-me)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [Pending Issues](#pending-issues)
+- [Contact Me](#contact-me)
 
 ## Features
 - ## 📋 Features
@@ -32,13 +32,16 @@ https://github.com/oguzhanuzunay/nike-landing-page/assets/48884275/e6b775f3-e83b
 - **Scalable Structure:** The project is built with scalability in mind, making it ideal for expansion.
 
 
-## 💻 Technologies Used
-
+## Technologies Used
+- ## 💻 Technologies Used
+  
 - [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework.
 - [React.js](https://reactjs.org/): A JavaScript library for building user interfaces.
 - [Vite.js](https://vitejs.dev/): A fast development build tool for modern web apps.
 
-## 🛠️ Getting Started
+
+## Getting Started
+- ## 🛠️ Getting Started
 
 1. **Clone the repository:**
 
@@ -62,8 +65,8 @@ https://github.com/oguzhanuzunay/nike-landing-page/assets/48884275/e6b775f3-e83b
 
 <br>
 
-## 🚧 Pending Issues
-
+## Pending Issues
+ ## 🚧 Pending Issues
 
 ❌ Fix navigation menu button not working for smaller devices.
 
@@ -71,7 +74,8 @@ https://github.com/oguzhanuzunay/nike-landing-page/assets/48884275/e6b775f3-e83b
 <br>
 We welcome contributions from the community to help implement these features. If you have ideas or would like to work on any of these pending features, please feel free to open an issue or submit a pull request.
 
-## 🤝 Contributions
+## Contributions
+- ## 🤝 Contributions
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
@@ -83,5 +87,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ---
 ## Contact Me
+- ## 📧 Contact Me
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Profile-gray?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0077b5)](https://www.linkedin.com/in/oguzhan-uzunay) 
