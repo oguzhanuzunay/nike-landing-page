@@ -20,8 +20,7 @@ https://github.com/oguzhanuzunay/nike-landing-page/assets/48884275/e6b775f3-e83b
 - [Pending Issues](#pending-issues)
 - [Contact Me](#contact-me)
 
-## Features
-- ## 📋 Features
+## 📋 Features
 
 - **Tailwind CSS Magic:** This project demonstrates the artistry of Tailwind CSS, providing a visually stunning and responsive design.
 - **React.js Brilliance:** Leveraging React.js, the page offers dynamic interactivity and a smooth user journey.
