@@ -19,6 +19,7 @@ https://github.com/oguzhanuzunay/nike-landing-page/assets/48884275/e6b775f3-e83b
 - [Contributing](#contributing)
 - [Pending Issues](#pending-issues)
 - [Contact Me](#contact-me)
+- <a href="#custom-id"> Custom </a>
 
 ## 📋 Features
 
@@ -81,6 +82,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. **Submit a pull request.**
 
 ---
+<h2 id="custom-id">📧 Custom</h3>
 ## 📧 Contact Me
 
 
