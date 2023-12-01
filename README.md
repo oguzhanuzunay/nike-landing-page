@@ -13,7 +13,7 @@ https://github.com/oguzhanuzunay/nike-landing-page/assets/48884275/e6b775f3-e83b
 
 ## 📄 Table of Contents
 
-- [Features](##features)
+- [Features](##_📋_Features)
 - [Technologies Used](##technologies-used)
 - [Getting Started](##getting-started)
 - [Contributing](##contributing)
